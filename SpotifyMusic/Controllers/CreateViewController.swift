@@ -1,5 +1,5 @@
 //
-//  UpcomingViewController.swift
+//  CreateViewController.swift
 //  SpotifyMusic
 //
 //  Created by V1 Macbook Air on 14/07/2025.
@@ -7,7 +7,7 @@
 
 import UIKit
 
-class UpcomingViewController: UIViewController {
+class CreateViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
@@ -16,6 +16,5 @@ class UpcomingViewController: UIViewController {
 
     }
     
-
 
 }
